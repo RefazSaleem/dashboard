@@ -1,0 +1,5 @@
+name: "Sample"
+category: "Sample"
+url: "https://hostname:8080"
+icon: "sample.png"
+color: "#43e97b"
