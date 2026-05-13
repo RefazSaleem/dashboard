@@ -1,0 +1,5 @@
+name: "Home Assistant"
+category: "Home"
+url: "https://npi.civet-cloud.ts.net:8123"
+icon: "home-assistant.png"
+color: "#41BDF5"
